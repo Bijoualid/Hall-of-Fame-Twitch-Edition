@@ -1,0 +1,73 @@
+body
+{
+  background-color: #1b2838;
+}
+
+
+p
+{
+  color: #a2a5ae;
+}
+
+
+h1
+{
+  color: #ffffff;
+  font-size: 2.8rem;
+}
+
+
+h2
+{
+  font-size: 1.5rem;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+
+h3
+{
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+
+
+h4
+{
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+h5
+{
+  color: #a2a5ae;
+  font-size: 13px;
+}
+
+
+.halloffame_page
+{
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+.halloffame-intro
+{
+  margin-top: 50px;
+  color: #5bc0f4;
+}
+
+
+.card-people
+{
+  margin-top: 70px;
+}
+
+
+.personal-card
+{
+  padding-bottom: 4%;
+}
