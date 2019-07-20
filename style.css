@@ -1,12 +1,24 @@
 body
 {
-  background-color: #1b2838;
+  background-color: #6441a4;
 }
 
 
 p
 {
-  color: #a2a5ae;
+  color: #ffffff;
+}
+
+
+a
+{
+  color: #ffffff;
+}
+
+
+a:hover
+{
+  color: #ffffff;
 }
 
 
@@ -14,6 +26,7 @@ h1
 {
   color: #ffffff;
   font-size: 2.8rem;
+  font-weight: bold;
 }
 
 
@@ -29,14 +42,6 @@ h3
 {
   color: #ffffff;
   font-size: 1.3rem;
-}
-
-
-h4
-{
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: bold;
 }
 
 
@@ -57,7 +62,9 @@ h5
 .halloffame-intro
 {
   margin-top: 50px;
-  color: #5bc0f4;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 
