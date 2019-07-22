@@ -59,6 +59,25 @@ h5
 }
 
 
+button
+{
+  background: #ffffff;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  border: 0;
+  padding: 4px 40px;
+  border-radius: 2px;
+  font-size: 2rem;
+  color: #6441a4;
+}
+
+
+button:hover
+{
+  text-decoration: underline;
+}
+
+
 .halloffame-intro
 {
   margin-top: 50px;
