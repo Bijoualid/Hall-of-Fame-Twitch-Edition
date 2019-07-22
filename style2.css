@@ -1,6 +1,7 @@
 body
 {
   background-color: #fbfbfe;
+  line-height: 1.5;
 }
 
 
@@ -58,13 +59,13 @@ button
 
 .twitter
 {
-  color: #ffffff;
+  color: #1da1f2;
 }
 
 
 .twitter:hover
 {
-  color: #ffffff;
+  color: #1da1f2;
 }
 
 
@@ -78,11 +79,11 @@ button
 .description
 {
   margin-top: 80px;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 
-.rules
+.information
 {
   background-color: #6441a4;
   margin-top: 100px;
