@@ -15,5 +15,15 @@ Rules :
   
   5 Send the link of your Twitch Channel and another link like Youtube if you have one.
   
-  6 If you like my work and want to support me, you can retweet my Tweet : https://twitter.com/IsmailiOualid.
+  6 If you like my work and want to support me, you can follow me on Twitter retweet my Tweet : https://twitter.com/IsmailiOualid.
   
+  7 If you very my work you can support me via Paypal : 
+  
+  
+  As a student, please be aware that this page will improve as I learn. Here are the next improvements that will appear on the     page:
+  
+  1 A navigation bar in order to be able to find Streamers based on the games they play and the language. 
+
+  2 A back-end system to allow people to join the Hall-of-Fame-Twitch-Edition with an account.
+  
+  3 If you have a blog or website and want to share this page i also want to create a system that allows you to choose only certain streamers to display on your page as long as all the links of the community appear.
