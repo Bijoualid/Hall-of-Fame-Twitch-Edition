@@ -1,0 +1,93 @@
+body
+{
+  background-color: #fbfbfe;
+}
+
+
+h1
+{
+  color: #6441a4;
+  font-weight: bold;
+  font-size: 4.3rem;
+}
+
+
+h2
+{
+  color: #9776d2;
+}
+
+
+h3
+{
+  color: #ffffff;
+}
+
+
+a
+{
+  color: #6441a4;
+}
+
+
+a:hover
+{
+  color: #6441a4;
+}
+
+
+form
+{
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+button
+{
+  background: #6441a4;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  border: 0;
+  padding: 4px 40px;
+  border-radius: 2px;
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+
+.twitter
+{
+  color: #ffffff;
+}
+
+
+.twitter:hover
+{
+  color: #ffffff;
+}
+
+
+.join_page
+{
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.description
+{
+  margin-top: 80px;
+  margin-bottom: 150px;
+}
+
+
+.rules
+{
+  background-color: #6441a4;
+  margin-top: 100px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: left;
+  margin: auto;
+}

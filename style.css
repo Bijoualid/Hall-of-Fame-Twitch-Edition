@@ -4,6 +4,13 @@ body
 }
 
 
+.halloffame_page
+{
+  text-align: center;
+  padding-top: 100px;
+}
+
+
 p
 {
   color: #ffffff;
@@ -52,19 +59,19 @@ h5
 }
 
 
-.halloffame_page
-{
-  text-align: center;
-  margin-top: 100px;
-}
-
-
 .halloffame-intro
 {
   margin-top: 50px;
   color: #ffffff;
   font-size: 16px;
   font-weight: bold;
+}
+
+
+.join
+{
+  margin-top: 20px;
+  font-size: 1.3rem;
 }
 
 
